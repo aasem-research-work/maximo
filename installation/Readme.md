@@ -102,4 +102,8 @@ launchpad64.exe
 30. Leave default and click **Finish** button
 <img width="876" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/e0446a10-d36e-4de2-a4f6-1b1c63ffb566">
 
-31. 
+31. Validation and Installation will start and may take approx 30 to 60 minutes
+32. Click **OK** when Configuration and Deployment Complete dialog appeares
+    
+## Install Maximo
+33. 
