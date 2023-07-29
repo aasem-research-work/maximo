@@ -80,13 +80,26 @@ launchpad64.exe
 <img width="610" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/7c6734e0-2ecd-4b76-8881-730796bc02bf">
 
 23. At successful installation, a diaglog appear. 
+<img width="610" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/3f724fcf-4fd8-44c8-a63f-6387d35f1bb8">
 
 ## Install IBM Tivoli Process Automation Engine Configuration Utility
 24. Make sure to select "IBM Tivoli process automation engine configuration utility" open and click **Finish** button to start next step installation.
 25. Click on **Prepare WebSphere Application Server for configuration** link
+<img width="876" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/996c1efd-9a5a-4835-bae1-67af389e0262">
+
 26. Leave default locations for WebSphere Application Server and click **Next** button
+<img width="876" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/a1cb8a70-1fb8-4caa-9b5f-c562618a0a89">
+
 27. Set password as ```Maximo123``` for *wasadmin* user. Leave default locations for WebSphere Application Server and click **Next** button
+<img width="876" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/6a299fa5-f934-4d28-991f-25500928dab4">
+
 28. Leave default and click **Next** button
+<img width="876" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/d23f4e59-f2db-467c-ab66-4db57a9aea5c">
+
 29. Leave default and click **Next** button
+<img width="876" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/a7398352-cd2a-4389-849d-90b46c5ef130">
+
 30. Leave default and click **Finish** button
+<img width="876" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/e0446a10-d36e-4de2-a4f6-1b1c63ffb566">
+
 31. 
