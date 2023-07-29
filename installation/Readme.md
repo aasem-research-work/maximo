@@ -44,3 +44,14 @@ cd ..
 launchpad64.exe
 ```
 
+## Install Product
+12. Lauchpad opens dialog. make sure to select:
+   1. Middleware: IBM DB2
+   2. IBM WebSphare
+   3. IBM Maximo Asset Manager v7.6
+13. Click on **install IBM Maximo Asset Management components**
+
+## Package selection
+14. In *Install Packages* leave the default packages and click **Next** Button
+15. Accept the licence and click **Next** Button
+
