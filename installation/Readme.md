@@ -53,7 +53,9 @@ launchpad64.exe
    a. Middleware: IBM DB2
    b. IBM WebSphare
    c. IBM Maximo Asset Manager v7.6
-13. Click on **install IBM Maximo Asset Management components**
+<img width="903" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/a22a084f-be68-4488-9ad3-a1760597c78f">
+
+14. Click on **install IBM Maximo Asset Management components**
 
 ## Package selection
 14. In *Install Packages* leave the default packages and click **Next** Button
@@ -62,11 +64,21 @@ launchpad64.exe
    - Shared Resources Directory: C:\IBMIBMIMShared
    - Installation Manager Directory: C:\IBMIBMIMShared\InstallationManager\eclipse
 17. Make sure to replace all "C:\\Program Files" in the all paths with "C:\\IBM". This will remove warnings
+<img width="964" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/f1b65eb6-e6d8-4e6c-a15e-35cd52834cf2">
+
 18. In language selection screen, keep the default i.e., English
 19. Verify components to be installed
+<img width="656" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/4a68ce0b-dbee-45ef-9e5a-88b774ef72b2">
+
 20. Set password **Maximo123** for DB2 configuration and leave all as default
+<img width="982" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/4f942961-3ed3-4476-a989-09ebcf16d25b">
+
 21. Leave default for IBM HTTP configuration
+<img width="662" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/59c2a950-1710-4412-ad53-084a01a12512">
+
 22. Verify and Install
+<img width="610" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/7c6734e0-2ecd-4b76-8881-730796bc02bf">
+
 23. At successful installation, a diaglog appear. 
 
 ## Install IBM Tivoli Process Automation Engine Configuration Utility
