@@ -16,5 +16,31 @@
 
 # Part Two
 ## Extract Maximo Media
-7. Extract via winrar to local directory (C:\installation\
+7. Extract via winrar to local directory (C:\installation\MAM_7.6.0.0_WIN64)
+
+## Verify prerequisites
+8. Change directory
+```
+cd C:\installation\MAM_7.6.0.0_WIN64\SystemRequirements
+```
+
+9. Execute tpae_req_check
+
+```
+tpae_req_check -input tpae.properties -mode silent -trace none -component was,asset_mgt,db2
+```
+
+# Part Three
+
+## start with launchpad64.exe
+10. Go back to the the directory having launchpad:
+    
+```
+cd ..
+```
+11. lauch it
+
+```
+launchpad64.exe
+```
 
