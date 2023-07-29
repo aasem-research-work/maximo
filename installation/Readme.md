@@ -115,4 +115,5 @@ and execute:
 ```
 installValidateion.bat
 ```
-
+## Login
+- http://localhost:9080/maximo 
