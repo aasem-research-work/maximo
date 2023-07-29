@@ -71,7 +71,7 @@ launchpad64.exe
 
 ## Install IBM Tivoli Process Automation Engine Configuration Utility
 24. Make sure to select "IBM Tivoli process automation engine configuration utility" open and click **Finish** button to start next step installation.
-25. Click on "Prepare WebSphere Application Server for configuration"
+25. Click on **Prepare WebSphere Application Server for configuration** link
 26. Leave default locations for WebSphere Application Server and click **Next** button
 27. Set password as ```Maximo123``` for *wasadmin* user. Leave default locations for WebSphere Application Server and click **Next** button
 28. Leave default and click **Next** button
