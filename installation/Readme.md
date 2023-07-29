@@ -4,8 +4,12 @@
 1. Install Windows Server 2012 R2 64-bit [Datacenter GUI]
 2. Set Administrator password as ```Maximo123```
 3. Change computer Name to ```maximo.demo.com```
+<img width="995" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/ca222415-cce4-4635-9584-d0848f057e8e">
 
 * Restart computer
+
+<img width="807" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/24ca4b86-1b5a-4011-9413-3d0d989331b0">
+
 
 ## Install utilities
 4. Install firefox (at leaset: Firefox Setup 115.0.3) and set it as default browser
@@ -63,5 +67,14 @@ launchpad64.exe
 20. Set password **Maximo123** for DB2 configuration and leave all as default
 21. Leave default for IBM HTTP configuration
 22. Verify and Install
+23. At successful installation, a diaglog appear. 
 
-
+## Install IBM Tivoli Process Automation Engine Configuration Utility
+24. Make sure to select "IBM Tivoli process automation engine configuration utility" open and click **Finish** button to start next step installation.
+25. Click on "Prepare WebSphere Application Server for configuration"
+26. Leave default locations for WebSphere Application Server and click **Next** button
+27. Set password as ```Maximo123``` for *wasadmin* user. Leave default locations for WebSphere Application Server and click **Next** button
+28. Leave default and click **Next** button
+29. Leave default and click **Next** button
+30. Leave default and click **Finish** button
+31. 
