@@ -105,5 +105,14 @@ launchpad64.exe
 31. Validation and Installation will start and may take approx 30 to 60 minutes
 32. Click **OK** when Configuration and Deployment Complete dialog appeares
     
-## Install Maximo
-33. 
+## Post Installation
+33. Run installValidation to verify if installation was successsful
+```
+
+cd C:\IBM\SMP\ConfigTool\script
+```
+and execute:
+```
+installValidateion.bat
+```
+
