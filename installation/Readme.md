@@ -46,12 +46,22 @@ launchpad64.exe
 
 ## Install Product
 12. Lauchpad opens dialog. make sure to select:
-   1. Middleware: IBM DB2
-   2. IBM WebSphare
-   3. IBM Maximo Asset Manager v7.6
+   a. Middleware: IBM DB2
+   b. IBM WebSphare
+   c. IBM Maximo Asset Manager v7.6
 13. Click on **install IBM Maximo Asset Management components**
 
 ## Package selection
 14. In *Install Packages* leave the default packages and click **Next** Button
 15. Accept the licence and click **Next** Button
+16. Set locations as following:
+   - Shared Resources Directory: C:\IBMIBMIMShared
+   - Installation Manager Directory: C:\IBMIBMIMShared\InstallationManager\eclipse
+17. Make sure to replace all "C:\\Program Files" in the all paths with "C:\\IBM". This will remove warnings
+18. In language selection screen, keep the default i.e., English
+19. Verify components to be installed
+20. Set password **Maximo123** for DB2 configuration and leave all as default
+21. Leave default for IBM HTTP configuration
+22. Verify and Install
+
 
