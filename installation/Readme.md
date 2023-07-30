@@ -104,9 +104,14 @@ launchpad64.exe
 
 31. Validation and Installation will start and may take approx 30 to 60 minutes
 32. Click **OK** when Configuration and Deployment Complete dialog appeares
-    
+
+## Maximo instance
+33. On same dialog click on "Configure a New Deploymebnt" link
+34. Change Database user name as *admin* while set password "Maximo123"
+35. This deployment operations will take some time to complete
+36. 
 ## Post Installation
-33. Run installValidation to verify if installation was successsful
+37. Run installValidation to verify if installation was successsful
 ```
 
 cd C:\IBM\SMP\ConfigTool\script
