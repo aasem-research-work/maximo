@@ -103,22 +103,47 @@ launchpad64.exe
 <img width="876" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/e0446a10-d36e-4de2-a4f6-1b1c63ffb566">
 
 31. Validation and Installation will start and may take approx 30 to 60 minutes
+<img width="876" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/40a91e03-1181-4256-b1a3-632191ce70d1">
+
+
 32. Click **OK** when Configuration and Deployment Complete dialog appeares
+<img width="635" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/eb512317-7db2-4a79-a906-b96ce29a5bd5">
+
 
 ## Maximo instance
 33. On same dialog click on "Configure a New Deploymebnt" link
-34. Change Database user name as *admin* while set password "Maximo123"
-35. This deployment operations will take some time to complete
-36. 
-## Post Installation
-37. Run installValidation to verify if installation was successsful
-```
+<img width="635" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/7ed7b497-a12e-422a-972f-921b12b3657e">
 
+34. Change Database user name as *admin* while set password "Maximo123"
+<img width="635" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/0958cc03-572d-4912-a875-2522b171f9cd">
+
+35. This deployment operations will take approx 20 to 30 minutes to complete
+<img width="863" alt="image" src="https://github.com/aasem-research-work/maximo/assets/101444683/b3207b93-ab1e-4ad5-9b23-f17463bea6ae">
+
+* If error occurs due to userid and password combination, etc then use **back** button to navigate to make changes and hit **Finish** button
+
+# Part Four
+## installation Validation via command line
+36. Run installValidation to verify if installation was successsful
+```
 cd C:\IBM\SMP\ConfigTool\script
 ```
 and execute:
 ```
 installValidateion.bat
 ```
+
+## Browser check
+- Open firefox and write ```about:config`` and hit enter key
+- Now write ``security.tls.version.min`` and hit enter key
+- Double-click on the security.tls.version.min preference.
+- Change the value to 0 (to enable SSL 3.0), 1 (to enable TLS 1.0), or 2 (to enable TLS 1.1), depending on which version your server is using.
+- Click "OK," then restart Firefox.
+
 ## Login
-- http://localhost:9080/maximo 
+- http://localhost:9080/maximo
+- https://localhost:9443/maximo (*accept the risk and proceed* when asks)
+- https://localhost:9043/ibm/console (*accept the risk and proceed* when asks)
+* *localhost* can be replaced with *maximo*, *maximo.demo.com*
+
+  
