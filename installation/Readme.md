@@ -134,7 +134,7 @@ installValidateion.bat
 ```
 
 ## Browser check
-- Open firefox and write ```about:config`` and hit enter key
+- Open firefox and write ```about:config``` and hit enter key
 - Now write ``security.tls.version.min`` and hit enter key
 - Double-click on the security.tls.version.min preference.
 - Change the value to 0 (to enable SSL 3.0), 1 (to enable TLS 1.0), or 2 (to enable TLS 1.1), depending on which version your server is using.
