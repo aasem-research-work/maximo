@@ -141,9 +141,13 @@ installValidateion.bat
 - Click "OK," then restart Firefox.
 
 ## Login
-- http://localhost:9080/maximo
-- https://localhost:9443/maximo (*accept the risk and proceed* when asks)
-- https://localhost:9043/ibm/console (*accept the risk and proceed* when asks)
-* *localhost* can be replaced with *maximo*, *maximo.demo.com*
+
+- http://localhost:9080/maximo (user: maxadmin, password: Maximo123)
+- https://localhost:9443/maximo (user: wilson, password: wilson)
+- https://localhost:9043/ibm/console (user: wasadmin, password: Maximo123)
+
+Note:
+- *localhost* can be replaced with *maximo*, *maximo.demo.com*
+- *accept the risk and proceed* when asks
 
   
