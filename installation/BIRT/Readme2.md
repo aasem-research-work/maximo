@@ -2,6 +2,9 @@
 
 This tutorial will guide you through the process of configuring BIRT on Windows Server 2012. We will use tools like WinRar and Notepad++ for various steps in the process.PrerequisitesMake sure WinRar and Notepad++ are installed on your machine.Make sure you have access to the directories and files mentioned in the steps below.Steps
 
+PS: If required, download jdk-7u80-windows-x64.exe from https://www.oracle.com/pk/java/technologies/javase/javase7-archive-downloads.html
+
+
 Install JRE: Download and install ```jre-7-windows-x64.exe``` into ```C:\java\jre7```
 
 Extract Eclipse: Extract ```eclipse-reporting-kepler-SR1-win32-x86_64``` into ```C:\birt_431\eclipse```
