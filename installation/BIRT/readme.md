@@ -9,6 +9,8 @@ This tutorial will guide you through the process of configuring BIRT (Business I
 - Installed Notepad++ for editing files
 - Access to the files `jre-7-windows-x64.exe`, `eclipse-reporting-kepler-SR1-win32-x86_64.zip`, and `oraclethin.jar`
 
+PS: If required, download jdk-7u80-windows-x64.exe from https://www.oracle.com/pk/java/technologies/javase/javase7-archive-downloads.html
+
 ## Step-by-Step Guide
 
 ### Step 1: Install JRE
