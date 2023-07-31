@@ -1,4 +1,4 @@
-# BIRT Installation for Maximo
+# BIRT Configuration Tutorial (Quick Version)
 
 This tutorial will guide you through the process of configuring BIRT on Windows Server 2012. We will use tools like WinRar and Notepad++ for various steps in the process.PrerequisitesMake sure WinRar and Notepad++ are installed on your machine.Make sure you have access to the directories and files mentioned in the steps below.Steps
 
