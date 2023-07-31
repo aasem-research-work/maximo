@@ -139,7 +139,8 @@ In this section, we'll go through the process of installing Maximo and configuri
 
 31. The utility will validate the installation and display a confirmation dialog.
 
- ![Validation](https://github.com/aasem-research-work/maximo/assets/101444683/8c72b8b4-9cb6-40e5-8a80-120b065a88c3)
+ ![Validation](https://github.com/aasem-research-work/maximo/assets/101444683/40a91e03-1181-4256-b1a3-632191ce70d1)
+ 
 
 ## Part Four: Configuring and Validating Maximo
 
