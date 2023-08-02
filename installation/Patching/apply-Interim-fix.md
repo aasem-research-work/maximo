@@ -21,3 +21,16 @@ Navigate to:
 - Click Next.
 - Follow the onscreen instructions to complete the installation. The following images show progress bars leading to the Update Packages screen.
 - When the installation is complete, exit IBM Installation Manager.
+
+
+## start the configuration program
+- Windows: Use Start > Programs > Tivoli's process automation suite > Configuration Program (default location C:\IBM\SMP\ConfigTool\ConfigUI.exe)
+- UNIX: In the <installLocation>/ConfigTool directory run ConfigUI, for example, /opt/IBM/SMP/ConfigTool/ConfigUI
+- In the Deployment Operations pane, click **Update** Database, **Build** and **Deploy** Application EAR Files. Click **Finish**.
+- Click Next.
+- Click Finish. The Config tool will execute all selected tasks.
+
+- The Config tool has completed its tasks. It has updated the database, rebuilt and redeployed the ear files, and started the Maximo application server. Log in to Maximo and check System Information.
+
+## Source
+- https://maximodevsupport.blogspot.com/2020/02/installing-interim-fix-in-maximo-76x.html?m=0 
