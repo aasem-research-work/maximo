@@ -34,11 +34,11 @@ In this section, we'll set up the operating system and utilities required for Ma
 
 In this section, we'll extract the Maximo media and verify the prerequisites for the installation.
 
-8. Extract the Maximo media using Winrar to the local directory (C:\IBM\MAM_7.6.0.0_WIN64).
+8. Extract the Maximo media using Winrar to the local directory (C:\IBM\Maximo-installer-pack\MAM_7.6.0.0_WIN64\MAM_7.6.0.0_WIN64).
 
 9. Change the directory to the SystemRequirements folder within the extracted media.
 ```
-cd C:\IBM\MAM_7.6.0.0_WIN64\SystemRequirements
+cd C:\IBM\Maximo-installer-pack\MAM_7.6.0.0_WIN64\SystemRequirements
 ```
 
 
