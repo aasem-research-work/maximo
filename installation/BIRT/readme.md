@@ -19,7 +19,7 @@ Install `jre-7-windows-x64.exe` into the directory `C:\java\jre7`.
 
 ### Step 2: Extract Eclipse
 
-Use WinRAR to extract `eclipse-reporting-kepler-SR1-win32-x86_64.zip` into the directory `C:\birt_431\eclipse`.
+Use WinRAR to extract `eclipse-reporting-kepler-SR1-win32-x86_64.zip` into the directory `C:\birt_431`.
 
 ### Step 3: Copy the Classes Folder
 
